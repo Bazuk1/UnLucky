@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Flama';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Flama'), url('Flama Regular.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Flama-Medium';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Flama-Medium'), url('Flama Medium.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: 'Flama-Semibold';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Flama-Semibold'), url('Flama Semibold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Flama-Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Flama-Bold'), url('Flama Bold.woff') format('woff');
+}

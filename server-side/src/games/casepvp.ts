@@ -1,0 +1,4 @@
+
+const GAME = "PVPCASE"
+
+export {};
